@@ -1,0 +1,27 @@
+.calculatorFrame {
+  border: solid 1px black;
+  border-radius: 0 0 10px 10px;
+}
+
+.tablist {
+  display: flex;
+  list-style: none;
+  max-width: 500px;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.tab {
+  border-bottom: solid 1px black;
+  border-radius: 0 0 5px 5px;
+  font-size: 0.8rem;
+}
+
+.tab:not(:last-child) {
+  border-right: solid 1px black;
+}
+
+.tab:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,34 @@
+form {
+  padding: 10px 10px 10px 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.numberInput {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.numberInput > * {
+  flex-basis: 35%;
+}
+
+.numberInput > input {
+  height: 1.3rem;
+}
+
+.result {
+  margin-left: 20px;
+}
+
+.error {
+  color: red;
+  font-size: 0.8rem;
+}
+
+.inputError {
+  outline: solid 2px red;
+}
