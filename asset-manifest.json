@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/wilsones1991/mortgage-calculator.git/static/css/main.504dc7cd.css",
-    "main.js": "/wilsones1991/mortgage-calculator.git/static/js/main.00f9f83c.js",
-    "static/js/787.b6e36b20.chunk.js": "/wilsones1991/mortgage-calculator.git/static/js/787.b6e36b20.chunk.js",
-    "index.html": "/wilsones1991/mortgage-calculator.git/index.html",
-    "main.504dc7cd.css.map": "/wilsones1991/mortgage-calculator.git/static/css/main.504dc7cd.css.map",
-    "main.00f9f83c.js.map": "/wilsones1991/mortgage-calculator.git/static/js/main.00f9f83c.js.map",
-    "787.b6e36b20.chunk.js.map": "/wilsones1991/mortgage-calculator.git/static/js/787.b6e36b20.chunk.js.map"
+    "main.css": "/mortgage-calculator/static/css/main.504dc7cd.css",
+    "main.js": "/mortgage-calculator/static/js/main.8007e1a5.js",
+    "static/js/787.b6e36b20.chunk.js": "/mortgage-calculator/static/js/787.b6e36b20.chunk.js",
+    "index.html": "/mortgage-calculator/index.html",
+    "main.504dc7cd.css.map": "/mortgage-calculator/static/css/main.504dc7cd.css.map",
+    "main.8007e1a5.js.map": "/mortgage-calculator/static/js/main.8007e1a5.js.map",
+    "787.b6e36b20.chunk.js.map": "/mortgage-calculator/static/js/787.b6e36b20.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.504dc7cd.css",
-    "static/js/main.00f9f83c.js"
+    "static/js/main.8007e1a5.js"
   ]
 }
